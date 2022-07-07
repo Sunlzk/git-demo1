@@ -1,12 +1,4 @@
 hello git!hello lzk!
-hello git!hello lzk!
-hello git!hello lzk!
-hello git!hello lzk!
-hello git!hello lzk!
-hello git!hello lzk!
-hello git!hello lzk!
-hello git!hello lzk!
-hello git!hello lzk!
-hello git!hello lzk!
+on browser fix!
 lzk first commit master!
 lzk second commit hot-fix!
