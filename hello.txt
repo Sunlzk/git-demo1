@@ -9,8 +9,4 @@ hello git!hello lzk!
 hello git!hello lzk!
 hello git!hello lzk!
 hello git!hello lzk!
-hello git!hello lzk!
-zhang
-zhang
-hello git!hello lzk!
-hello git!hello lzk!
+lzk first commit master!
